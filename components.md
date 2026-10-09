@@ -25,3 +25,5 @@ MP1584 [Qty : 1]
 Battery 
 Coddar 7.6V 2S 500mAh 100C LiPo Battery [Qty : 1]
   Product Page : https://www.hobbyrc.co.uk/coddar-500mah-2s-100c-lihv-battery-xt30
+
+| Component | Model | Quantity | Datasheet |
